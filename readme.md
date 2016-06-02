@@ -110,6 +110,12 @@ Just how a race-car driver should understand how their car runs, it is imperativ
     </figure>
 </details>
 
+**CFU:**
+<ul>
+	<li>Explain Whip-around</li>
+	<li>Whip-around on repeat with whole class all Q's above</li>
+</ul>
+
 ##The World Wide Web
 
 <details>
@@ -195,6 +201,12 @@ Just how a race-car driver should understand how their car runs, it is imperativ
     </figure>
 </details>
 
+**CFU:**
+<ul>
+	<li>Review Whip-around</li>
+	<li>Whip-around on repeat with whole class all Q's above</li>
+</ul>
+
 ##APIs
 
 <details>
@@ -236,6 +248,11 @@ Just how a race-car driver should understand how their car runs, it is imperativ
         <figcaption>Every time you visit a webpage your computer is acting as a client that will send a request to a URL. This URL maps to a specific server somewhere else in the world. That server is tasked with responding back to you with the information you have requested. Each request must contain two things: **a URL**, which represents the location, and an **HTTP Verb**, which represents the intent. The verb options are: POST, GET, PUT, and DELETE, which mean you want to respectively Create, Read, Update, or Delete (CRUD) data located at a specific location.</figcaption>
     </figure>
 </details>
+
+**CFU:**
+<ul>
+	<li>Whip-around on repeat with whole class all Q's above</li>
+</ul>
 
 ##Q & A
 
