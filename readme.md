@@ -270,7 +270,7 @@ Just how a race-car driver should understand how their car runs, it is imperativ
 
 There's tons of technical acronyms and jargon in the world. Understanding the basic building blocks of Internet & web technologies will help you communicate, grasp new concepts independently, and demystify concepts on your learning journey to become better web developers.
 
-## Personal Closing
+**Personal Closing**
 
 I am more than happy to help with any of this.  If you have an error, and you're pretty sure it's a connection issue, let me know.  This was basically all I did for about a year.  I love working through these problems.
 
