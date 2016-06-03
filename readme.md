@@ -243,7 +243,7 @@ Just how a race-car driver should understand how their car runs, it is imperativ
         <h3>An Interface to Twitter's Data</h3>
         <img src='imgs/twitter-api-logo.png' alt='missing' />
         <br>
-        <figcaption>Developers may want a way to access Twitter's data, so Twitter exposes an interface for them to do so. Big companies exposing their data over the internet is an extremely simplified idea of what an API is. Litterally every piece of software, at some level, has an interface to access it!</figcaption>
+        <figcaption>Developers may want a way to access Twitter's data, so Twitter exposes an interface for them to do so. Big companies exposing their data over the internet is an extremely simplified idea of what an API is. Literally every piece of software, at some level, has an interface to access it!</figcaption>
     </figure>
 </details>
 
