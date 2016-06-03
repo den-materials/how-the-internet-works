@@ -7,9 +7,10 @@ Adapted by: Zeb Girouard
 ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
 
 
-**Hook:**
+<!-- Hook:
 
 Who has ever watched a hacker or computer movie, and been like, "Wow, that is so not how the Internet works"?  And who has ever stopped and thought, "Wait, is it?"  Today, we're going to talk about that so whenever we want to be Internet snobs, we have a strong basis for our snobbery.
+-->
 
 #How the Internet Works
 
@@ -83,11 +84,10 @@ Just how a race-car driver should understand how their car runs, it is imperativ
     </figure>
 </details>
 
-**CFU:**
-<ul>
-	<li>Explain Whip-around - write on board</li>
-	<li>Whip-around on repeat with whole class all Q's above</li>
-</ul>
+<!-- **CFU:**
+	- Explain Whip-around - write on board
+	- Whip-around on repeat with whole class all Q's above
+-->
 
 ##The Internet Protocol Suite
 
@@ -121,11 +121,10 @@ Just how a race-car driver should understand how their car runs, it is imperativ
     </figure>
 </details>
 
-**CFU:**
-<ul>
-	<li>Review Whip-around</li>
-	<li>Whip-around on repeat with whole class all Q's above (reverse of last time)</li>
-</ul>
+<!-- **CFU:**
+	- Review Whip-around
+	- Whip-around on repeat with whole class all Q's above (reverse of last time)
+-->
 
 ##The World Wide Web
 
@@ -212,10 +211,9 @@ Just how a race-car driver should understand how their car runs, it is imperativ
     </figure>
 </details>
 
-**CFU:**
-<ul>
-	<li>Whip-around on repeat with whole class all Q's above (start in middle)</li>
-</ul>
+<!-- **CFU:**
+	- Whip-around on repeat with whole class all Q's above (start in middle)
+-->
 
 ##APIs
 
@@ -259,10 +257,9 @@ Just how a race-car driver should understand how their car runs, it is imperativ
     </figure>
 </details>
 
-**CFU:**
-<ul>
-	<li>Whip-around on repeat with whole class all Q's above (reverse from middle)</li>
-</ul>
+<!-- **CFU:**
+	- Whip-around on repeat with whole class all Q's above (reverse from middle)
+-->
 
 ##Q & A
 
@@ -270,11 +267,12 @@ Just how a race-car driver should understand how their car runs, it is imperativ
 
 There's tons of technical acronyms and jargon in the world. Understanding the basic building blocks of Internet & web technologies will help you communicate, grasp new concepts independently, and demystify concepts on your learning journey to become better web developers.
 
-**Personal Closing**
+<!-- **Personal Closing**
 
 I am more than happy to help with any of this.  If you have an error, and you're pretty sure it's a connection issue, let me know.  This was basically all I did for about a year.  I love working through these problems.
 
 I also highly recommend, if you haven't done it yet, going into a server room and really seeing how these machines connect.  It gives you a whole new appreciation for things.
+-->
 
 ## Further Resources
 
