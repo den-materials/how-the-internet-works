@@ -95,9 +95,19 @@ Just how a race-car driver should understand how their car runs, it is imperativ
     <summary>What are the distinct layers of the Internet protocol suite?</summary>
     <figure>
         <h3>Internet Protocol Suite</h3>
-        <img src='imgs/ip-suite.gif' alt='missing' />
+        <img src='imgs/ip-suite.png' alt='missing' />
         <br>
         <figcaption>The suite is a set of communication protocols used in tandem on the Internet. These protocols work together to facilitate a variety of networked communications.</figcaption>
+    </figure>
+</details>
+
+<details>
+    <summary>What happens at each layer?</summary>
+    <figure>
+        <h3>Encapsulation / Decapsulation</h3>
+        <img src='imgs/4_layer_transmission.png' alt='missing' />
+        <br>
+        <figcaption>At each layer, a header and/or footer is added to the raw data that a computer is trying to send.</figcaption>
     </figure>
 </details>
 
