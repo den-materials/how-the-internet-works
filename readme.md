@@ -22,10 +22,10 @@ Just how a race-car driver should understand how their car runs, it is imperativ
 ## What are the objectives?
 *After this workshop, developers will be able to:*
 
-* Explain at a high level how the Internet transmits data
-* Distinguish between the Internet and the World Wide Web
-* Understand why HTML CSS and JavaScript work together so well
-* Articulate what an API is
+* **Explain** at a high level how the Internet transmits data
+* **Distinguish** between the Internet and the World Wide Web
+* **Understand** why HTML CSS and JavaScript work together so well
+* **Articulate** what an API is
 
 ## Where should we be now?
 *Before this workshop, developers should already be able to:*
