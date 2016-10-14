@@ -136,6 +136,8 @@ Just how a race-car driver should understand how their car runs, it is imperativ
 	- Whip-around on repeat with whole class all Q's above (reverse of last time)
 -->
 
+<!-- Play a packet's tale -->
+
 ##The World Wide Web
 
 <details>
@@ -224,6 +226,8 @@ Just how a race-car driver should understand how their car runs, it is imperativ
 <!-- **CFU:**
 	- Whip-around on repeat with whole class all Q's above (start in middle)
 -->
+
+<!-- Packet live demo with volunteers -->
 
 ##APIs
 
