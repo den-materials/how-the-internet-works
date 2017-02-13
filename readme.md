@@ -32,7 +32,7 @@ Just how a race-car driver should understand how their car runs, it is imperativ
 
 * Use the Internet
 
-##The Internet
+## The Internet
 
 <details>
     <summary>How did the Internet begin?</summary>
