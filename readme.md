@@ -6,13 +6,14 @@ Adapted by: Zeb Girouard
 
 ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
 
+<!--11:10 5 minutes -->
 
 <!-- Hook:
 
 Who has ever watched a hacker or computer movie, and been like, "Wow, that is so not how the Internet works"?  And who has ever stopped and thought, "Wait, is it?"  Today, we're going to talk about that so whenever we want to be Internet snobs, we have a strong basis for our snobbery.
 -->
 
-#How the Internet Works
+# How the Internet Works
 
 ## Why is this important?
 *This workshop is relevant to developers because:*
@@ -31,6 +32,8 @@ Just how a race-car driver should understand how their car runs, it is imperativ
 *Before this workshop, developers should already be able to:*
 
 * Use the Internet
+
+<!--11:15 10 minutes -->
 
 ## The Internet
 
@@ -89,7 +92,9 @@ Just how a race-car driver should understand how their car runs, it is imperativ
 	- Whip-around on repeat with whole class all Q's above
 -->
 
-##The Internet Protocol Suite
+<!--11:25 10 minutes -->
+
+## The Internet Protocol Suite
 
 <details>
     <summary>What are the distinct layers of the Internet protocol suite?</summary>
@@ -136,9 +141,13 @@ Just how a race-car driver should understand how their car runs, it is imperativ
 	- Whip-around on repeat with whole class all Q's above (reverse of last time)
 -->
 
+<!--11:35 5 minutes -->
+
 <!-- Play a packet's tale -->
 
-##The World Wide Web
+<!--11:40 15 minutes -->
+
+## The World Wide Web
 
 <details>
     <summary>How does the World Wide Web compare to the Internet?</summary>
@@ -229,7 +238,9 @@ Just how a race-car driver should understand how their car runs, it is imperativ
 
 <!-- Packet live demo with volunteers -->
 
-##APIs
+<!--11:55 10 minutes -->
+
+## APIs
 
 <details>
     <summary>What is the definition of an API?</summary>
@@ -275,7 +286,9 @@ Just how a race-car driver should understand how their car runs, it is imperativ
 	- Whip-around on repeat with whole class all Q's above (reverse from middle)
 -->
 
-##Q & A
+<!--12:05 5 minutes -->
+
+## Q & A
 
 ## Closing Thoughts
 
@@ -287,6 +300,8 @@ I am more than happy to help with any of this.  If you have an error, and you're
 
 I also highly recommend, if you haven't done it yet, going into a server room and really seeing how these machines connect.  It gives you a whole new appreciation for things.
 -->
+
+<!--If time, this is where we should do a GH issue lab before lunch -- something like "How do you reverse a Linked List in Javascript?", submit issues to this repo, 2 online resources and one developer you talked to -->
 
 ## Further Resources
 
