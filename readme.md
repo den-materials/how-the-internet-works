@@ -6,6 +6,7 @@ Adapted by: Zeb Girouard
 
 ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
 
+<!--Actually 11:21 -->
 <!--11:10 5 minutes -->
 
 <!-- Hook:
@@ -32,7 +33,7 @@ Just how a race-car driver should understand how their car runs, it is imperativ
 *Before this workshop, developers should already be able to:*
 
 * Use the Internet
-
+<!--Actually 11:23 -->
 <!--11:15 10 minutes -->
 
 ## The Internet
@@ -92,6 +93,7 @@ Just how a race-car driver should understand how their car runs, it is imperativ
 	- Whip-around on repeat with whole class all Q's above
 -->
 
+<!--11:36-->
 <!--11:25 10 minutes -->
 
 ## The Internet Protocol Suite
@@ -141,10 +143,12 @@ Just how a race-car driver should understand how their car runs, it is imperativ
 	- Whip-around on repeat with whole class all Q's above (reverse of last time)
 -->
 
+<!--Actually 11:50-->
 <!--11:35 5 minutes -->
 
 <!-- Play a packet's tale -->
 
+<!-- Actually 11:53 -->
 <!--11:40 15 minutes -->
 
 ## The World Wide Web
@@ -238,6 +242,8 @@ Just how a race-car driver should understand how their car runs, it is imperativ
 
 <!-- Packet live demo with volunteers -->
 
+<!--12:05-->
+
 <!--11:55 10 minutes -->
 
 ## APIs
@@ -285,7 +291,7 @@ Just how a race-car driver should understand how their car runs, it is imperativ
 <!-- **CFU:**
 	- Whip-around on repeat with whole class all Q's above (reverse from middle)
 -->
-
+<!--Actually 12:15 -->
 <!--12:05 5 minutes -->
 
 ## Q & A
