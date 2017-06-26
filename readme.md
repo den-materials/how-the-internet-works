@@ -7,6 +7,7 @@ Adapted by: Zeb Girouard
 ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
 
 <!--Actually 11:21 -->
+<!--WDI4 11:30 -->
 <!--11:10 5 minutes -->
 
 <!-- Hook:
@@ -34,6 +35,7 @@ Just how a race-car driver should understand how their car runs, it is imperativ
 
 * Use the Internet
 <!--Actually 11:23 -->
+<!--WDI4 11:34 -->
 <!--11:15 10 minutes -->
 
 ## The Internet
@@ -94,6 +96,7 @@ Just how a race-car driver should understand how their car runs, it is imperativ
 -->
 
 <!--11:36-->
+<!--11:44 WDI
 <!--11:25 10 minutes -->
 
 ## The Internet Protocol Suite
@@ -144,11 +147,13 @@ Just how a race-car driver should understand how their car runs, it is imperativ
 -->
 
 <!--Actually 11:50-->
+<!--11:56 -->
 <!--11:35 5 minutes -->
 
 <!-- Play a packet's tale -->
 
 <!-- Actually 11:53 -->
+<!--12:03 WDI4 -->
 <!--11:40 15 minutes -->
 
 ## The World Wide Web
@@ -244,6 +249,8 @@ Just how a race-car driver should understand how their car runs, it is imperativ
 
 <!--12:05-->
 
+<!--12:15 WDI4-->
+
 <!--11:55 10 minutes -->
 
 ## APIs
@@ -293,6 +300,7 @@ Just how a race-car driver should understand how their car runs, it is imperativ
 -->
 <!--Actually 12:15 -->
 <!--12:05 5 minutes -->
+<!--12:26 WDI4 -->
 
 ## Q & A
 
@@ -308,6 +316,8 @@ I also highly recommend, if you haven't done it yet, going into a server room an
 -->
 
 <!--If time, this is where we should do a GH issue lab before lunch -- something like "How do you reverse a Linked List in Javascript?", submit issues to this repo, 2 online resources and one developer you talked to -->
+
+<!--12:32 after a couple announcements, did not do GH issue lab -->
 
 ## Further Resources
 
