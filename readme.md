@@ -302,8 +302,6 @@ Just how a race-car driver should understand how their car runs, it is imperativ
 <!--12:05 5 minutes -->
 <!--12:26 WDI4 -->
 
-## Q & A
-
 ## Closing Thoughts
 
 There's tons of technical acronyms and jargon in the world. Understanding the basic building blocks of Internet & web technologies will help you communicate, grasp new concepts independently, and demystify concepts on your learning journey to become better web developers.
